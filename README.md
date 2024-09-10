@@ -1,4 +1,4 @@
-# Mindset-Learning
+# Being a Developer
 
 While completing my learning with App Academy (Software Engineer) I was provided with much more than code to learn, there were numerous instances where I was provided with practical skills that would improve my mindset and abilities to succeed as a developer. 
 
